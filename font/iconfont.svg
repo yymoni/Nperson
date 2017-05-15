@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20120731 at Mon May 15 05:15:09 2017
+ By admin
+</metadata>
+<defs>
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face 
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="2 0 6 3 0 0 0 0 0 0"
+    ascent="896"
+    descent="-128"
+    x-height="792"
+    bbox="44 -128 963 896"
+    underline-thickness="0"
+    underline-position="0"
+    unicode-range="U+0078-E8E3"
+  />
+<missing-glyph 
+ />
+    <glyph glyph-name=".notdef" 
+ />
+    <glyph glyph-name=".notdef" 
+ />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="341" 
+ />
+    <glyph glyph-name="x" unicode="x" horiz-adv-x="1001" 
+d="M281 543q-27 -1 -53 -1h-83q-18 0 -36.5 -6t-32.5 -18.5t-23 -32t-9 -45.5v-76h912v41q0 16 -0.5 30t-0.5 18q0 13 -5 29t-17 29.5t-31.5 22.5t-49.5 9h-133v-97h-438v97zM955 310v-52q0 -23 0.5 -52t0.5 -58t-10.5 -47.5t-26 -30t-33 -16t-31.5 -4.5q-14 -1 -29.5 -0.5
+t-29.5 0.5h-32l-45 128h-439l-44 -128h-29h-34q-20 0 -45 1q-25 0 -41 9.5t-25.5 23t-13.5 29.5t-4 30v167h911zM163 247q-12 0 -21 -8.5t-9 -21.5t9 -21.5t21 -8.5q13 0 22 8.5t9 21.5t-9 21.5t-22 8.5zM316 123q-8 -26 -14 -48q-5 -19 -10.5 -37t-7.5 -25t-3 -15t1 -14.5
+t9.5 -10.5t21.5 -4h37h67h81h80h64h36q23 0 34 12t2 38q-5 13 -9.5 30.5t-9.5 34.5q-5 19 -11 39h-368zM336 498v228q0 11 2.5 23t10 21.5t20.5 15.5t34 6h188q31 0 51.5 -14.5t20.5 -52.5v-227h-327z" />
+    <glyph glyph-name="css3" unicode="&#xe68c;" 
+d="M202 684h752l-133 -666l-402 -134l-349 134l36 178h148l-14 -74l210 -80l244 80l34 170h-604l28 148h605l19 96h-604z" />
+    <glyph glyph-name="html5" unicode="&#xe74e;" 
+d="M61 896l82 -922l368 -102l370 103l82 921h-902zM785 595h-1h-432l10 -116h412l-31 -347l-231 -64v0v0h-1l-231 64l-16 177h114l8 -90l125 -34h1l126 34l13 147h-392l-30 342h566z" />
+    <glyph glyph-name="socialangular" unicode="&#xe8e3;" 
+d="M427 384h170l-85 179zM512 832l-448 -160l92 -544l356 -192l356 192l92 544zM688 192l-53 112h-246l-53 -112h-80l256 560l256 -560h-80z" />
+    <glyph glyph-name="js" unicode="&#xe603;" 
+d="M458 782h-156v-500q0 -88 -23.5 -123t-72.5 -35q-40 0 -75 14l-16 -146q46 -19 107 -19q236 0 236 308v501v0v0zM458 782zM737 781q-108 0 -174 -66.5t-66 -167.5q0 -155 176 -233q57 -25 81 -49.5t24 -59.5q0 -40 -25.5 -63t-73.5 -23q-79 0 -153 49v0l-29 -145
+q29 -20 76 -34.5t97 -14.5q123 0 188 68.5t65 173.5q0 83 -39.5 139.5t-122.5 94.5q-67 33 -92 54.5t-25 57.5q0 31 24 53t68 22q62 0 126 -40l36 147q-69 37 -161 37v0v0zM737 781z" />
+  </font>
+</defs></svg>
